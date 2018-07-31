@@ -1,0 +1,28 @@
+C:\dev\bar\New folder\bin\Debug\netcoreapp2.1\New folder.deps.json
+C:\dev\bar\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.json
+C:\dev\bar\New folder\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.dev.json
+C:\dev\bar\New folder\bin\Debug\netcoreapp2.1\New folder.dll
+C:\dev\bar\New folder\bin\Debug\netcoreapp2.1\New folder.pdb
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.csprojAssemblyReference.cache
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.csproj.CoreCompileInputs.cache
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.RazorAssemblyInfo.cache
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.RazorAssemblyInfo.cs
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfoInputs.cache
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.AssemblyInfo.cs
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.RazorTargetAssemblyInfo.cache
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.dll
+C:\dev\bar\New folder\obj\Debug\netcoreapp2.1\New folder.pdb
+C:\dev\bar\api\bin\Debug\netcoreapp2.1\New folder.deps.json
+C:\dev\bar\api\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.json
+C:\dev\bar\api\bin\Debug\netcoreapp2.1\New folder.runtimeconfig.dev.json
+C:\dev\bar\api\bin\Debug\netcoreapp2.1\New folder.dll
+C:\dev\bar\api\bin\Debug\netcoreapp2.1\New folder.pdb
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.csprojAssemblyReference.cache
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.csproj.CoreCompileInputs.cache
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.RazorAssemblyInfo.cache
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.RazorAssemblyInfo.cs
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.AssemblyInfoInputs.cache
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.AssemblyInfo.cs
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.RazorTargetAssemblyInfo.cache
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.dll
+C:\dev\bar\api\obj\Debug\netcoreapp2.1\New folder.pdb

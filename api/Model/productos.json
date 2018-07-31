@@ -1,0 +1,21 @@
+{
+    "Category": "all",
+    "Products":[{
+        "Id": 1,
+        "Name": "cerveza",
+        "Price": 100,
+        "Category": "bebida"
+    },
+    {
+        "Id": 2,
+        "Name": "gaseosa",
+        "Price": 50,
+        "Category": "bebida"
+    },
+    {
+        "Id": 3,
+        "Name": "pizza",
+        "Price": 150,
+        "Category": "comida"
+    }]    
+}
